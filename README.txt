@@ -1,1 +1,1 @@
-Численный алгоритм для решения уравнения теплопроводности. Реализованы два метода решения: явная и неявная схема. Используется метод прогонки для решения соответствующей системы линейных уравнений в неявной схеме.
+Numerical algorithm of heat equation. Two solution methods are implemented: explicit and implicit schemes. The tridiagonal matrix algorithm can be used to solve the corresponding system of linear equations in an implicit scheme.
