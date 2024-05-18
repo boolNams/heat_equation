@@ -49,7 +49,7 @@ void ExplicitScheme(int N, int M, bool G)	// M should be >= 4*N*N for stability
 
 void ImplicitScheme(int N, int M, bool G)
 {
-	/*  ExplicitScheme
+	/*  ImplicitScheme
 	-N	number of segments along the x axis
 	-M	number of segments along the y axis
 	-G	plotting parameter
